@@ -1,4 +1,4 @@
 # Phoenix 
-This is the floder i use for database for my apps and following is the list.
+This is the repo i use as database for my apps and following are the list.
 
-- [Notification][https://deepak-phoenix.github.io/Phoenix/data.json]
+- [Notifications](https://deepak-phoenix.github.io/Phoenix/data.json) android app.
